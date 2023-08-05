@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# SmartHouseFinal
-=======
-# Smart
->>>>>>> 97348afac2b4a3f70692f00a44b60260c9aedf55
+Profe Cabe aclarar que las migraciones y el config no salen en el backk debido a que lo habia hecho en otro archivo la creacion de la base de datos con sus respectivas migraciones. 
